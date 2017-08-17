@@ -14,4 +14,6 @@ Gallaries are generated from Github Gists. View my gallaries:
 - [Photography Example](a1ffeaa25e1d6efcbecd56881ae571d9.md)
 - [Internet Image](1b956985d132fd63d9453affd43f2f56.md)
 
-## More tests
+## Videos
+
+- [猫课猫讲Git](videos/mkmj_git_01.md)
